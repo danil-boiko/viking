@@ -16,6 +16,24 @@ a {
   text-decoration: none;
 }
 
+.container {
+  max-width: 1220px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.section-page{
+    padding: 100px 0;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 36px;
+    line-height: 42px;
+    font-weight: 400;
+}
+
 .header {
   background-image: url("../images/header-bg.jpg");
   height: 100vh;
@@ -71,3 +89,5 @@ a {
 .logo {
   padding-top: 178px;
 }
+
+.ab
