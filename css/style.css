@@ -163,6 +163,7 @@ ul {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 100px 75px;
   counter-reset: numbers;
+  padding-top: 50px;
 }
 
 .seasons__item {
